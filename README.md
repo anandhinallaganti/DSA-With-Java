@@ -55,15 +55,3 @@ This repository documents my consistent learning and practice of DSA using **Jav
 > *“Consistency compounds. One problem a day can change your future.”*
 
 ---
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0283-move-zeroes) |
-<!---LeetCode Topics End-->
