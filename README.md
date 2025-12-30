@@ -55,27 +55,3 @@ This repository documents my consistent learning and practice of DSA using **Jav
 > *“Consistency compounds. One problem a day can change your future.”*
 
 ---
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
-<!---LeetCode Topics End-->
