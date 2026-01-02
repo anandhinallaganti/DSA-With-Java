@@ -64,6 +64,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
