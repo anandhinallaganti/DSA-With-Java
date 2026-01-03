@@ -77,6 +77,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Math
 |  |
 | ------- |
