@@ -67,6 +67,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
