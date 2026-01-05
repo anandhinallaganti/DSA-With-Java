@@ -68,6 +68,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -98,4 +99,9 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
