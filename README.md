@@ -81,6 +81,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -130,4 +131,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
