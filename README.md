@@ -62,6 +62,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -110,6 +112,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -142,4 +145,12 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
