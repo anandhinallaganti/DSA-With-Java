@@ -67,6 +67,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
@@ -82,6 +83,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -103,6 +105,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -135,4 +138,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Sorting
+|  |
+| ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 <!---LeetCode Topics End-->
